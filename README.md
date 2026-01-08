@@ -8,7 +8,7 @@ Understanding which attacks occur at which network layer helps analysts:
 - Analyze logs and PCAPs efficiently
 
 ## What This Repo Covers
-- OSI 7 Layers (Layer 1–4 deep dive, Layer 7 conceptually)
+- OSI 7 Layers 
 - TCP/IP 4 Layer Model
 - Attack mapping per layer
 - SOC detection perspective
