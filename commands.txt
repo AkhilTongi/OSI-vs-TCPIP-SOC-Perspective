@@ -1,0 +1,8 @@
+# ICMP Traffic Capture
+tcpdump -i eth0 icmp
+
+# Port Scan Detection
+nmap -sS <target-ip>
+
+# HTTP Traffic Analysis
+wireshark filter: http
