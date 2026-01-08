@@ -4,7 +4,7 @@
 - The Physical layer is responsible for the actual transmission of raw bits (0s and 1s) over a physical medium. 
 - Cables, signals, NICs
 - Attacks: 
-  - Physical tampering 
+  - Physical tampering
   - Cable unplugging 
 - SOC relevance:
   - Usually handled by DC/security teams, not SOC.
